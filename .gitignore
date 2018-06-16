@@ -4,6 +4,7 @@
 Makefile
 Makefile.in
 
+/*.tar.gz
 /aclocal.m4
 /autom4te.cache/
 /compile

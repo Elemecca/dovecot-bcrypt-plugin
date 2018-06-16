@@ -7,3 +7,6 @@ libbcrypt_plugin_la_LDFLAGS = -module -avoid-version
 libbcrypt_plugin_la_SOURCES = \
     bcrypt-plugin.c \
     crypt_blowfish.c
+
+noinst_HEADERS = \
+    crypt_blowfish.h
